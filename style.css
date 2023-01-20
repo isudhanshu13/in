@@ -1,0 +1,124 @@
+body{
+    background-color: pink;
+    font-family: "comic sans MS", cursive, sans-serif;
+    
+}
+hr{
+    border-style:dotted;
+    color: black;
+    width: 5%;
+    height: 0px;
+}
+h3{
+   
+    color:darkorange;
+}
+.change{
+    position: relative right 30;
+}
+div{
+    position: relative;
+    left: 1200px;
+}
+.abc{
+    position: relative;
+    left: 100px;
+}
+.bcd{
+    color: indigo;
+    position: relative;
+    left: 100px;
+}
+.cde{
+    color: indigo;
+}
+.def{
+    color:olive;
+    position: relative;
+    left: 535px;
+    bottom: 250px;
+
+}
+.efg{
+    color: olive;
+    position: relative;
+    left: 50px;
+    top: 200px;
+
+}
+.fgh{
+    position: relative;
+    left: 675px;
+   padding: 20px;
+}
+.ghi{
+    color: darkred;
+    position: relative;
+    left: 800px;
+}
+.hij{
+    color:tomato ;
+    position: relative;
+    bottom: 500px;
+    padding: 20px;
+}
+.ijk{
+    color:tomato ;
+    position: relative;
+    left: 1350px;
+    bottom: 650px;
+}
+.jkl{
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+}
+.klm{
+    color: darkred;
+    position: relative;
+    left: 800px;
+}
+.h1{
+    
+    color: darkorange;
+   
+}
+.xyz{
+    
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+}
+.pqr{
+    position: relative;
+    left: 1px;
+    bottom: 200px;
+    
+}
+.qrs{
+    position: relative;
+    left: 1400px;
+    bottom: 270px;
+}
+.rst{
+    color: darkmagenta;
+    font-size: 100px;
+    position: relative;
+    left: 400px; ;
+}
+.stu{
+    color: darkmagenta;
+    font-size: 100px;
+    position: relative;
+    left: 1300px;
+
+}
+.stq{
+    position: relative;
+    left: 750px;
+}
+.tqr{
+    position: relative;
+    left: 750px;
+    font-size: 100px;
+}
