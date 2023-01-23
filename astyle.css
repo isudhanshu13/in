@@ -22,58 +22,65 @@ div{
 }
 .abc{
     position: relative;
-    left: 100px;
+    left: 0px;
 }
-.bcd{
-    color: indigo;
-    position: relative;
-    left: 100px;
-}
+
 .cde{
     color: indigo;
+    width: 10%;
 }
 .def{
     color:olive;
     position: relative;
-    left: 535px;
+    left: 450px;
     bottom: 250px;
+    width: 70%;
+   
 
 }
 .efg{
     color: olive;
+    width:60%;
     position: relative;
-    left: 50px;
-    top: 200px;
+    bottom: 250px;
+    left:20px;
+
 
 }
 .fgh{
+    width: 30%;
     position: relative;
-    left: 675px;
+    left: 680px;
    padding: 20px;
 }
 .ghi{
+    width: 30%;
     color: darkred;
     position: relative;
     left: 800px;
 }
 .hij{
+    width:35%;
     color:tomato ;
     position: relative;
     bottom: 500px;
     padding: 20px;
 }
 .ijk{
+    width:30%;
     color:tomato ;
     position: relative;
-    left: 1350px;
+    left: 1320px;
     bottom: 650px;
 }
 .jkl{
+    width:40%;
     position: relative;
     left: 800px;
     bottom: 250px;
 }
 .klm{
+    width: 40%;
     color: darkred;
     position: relative;
     left: 800px;
@@ -84,12 +91,12 @@ div{
    
 }
 .xyz{
-    
+    width:50%;
     position: relative;
     left: 400px;
     bottom: 300px;
 }
-.pqr{
+.pqr{width:28%;
     position: relative;
     left: 1px;
     bottom: 200px;
@@ -97,17 +104,20 @@ div{
     
 }
 .qrs{
+    width:30%;
     position: relative;
-    left: 1400px;
-    bottom: 270px;
+    left: 1320px;
+    bottom: 275px;
 }
 .rst{
+    width:20%;
     color: darkmagenta;
     font-size: 100px;
     position: relative;
     left: 400px; ;
 }
 .stu{
+    width:30%;
     color: darkmagenta;
     font-size: 100px;
     position: relative;
@@ -119,6 +129,7 @@ div{
     left: 750px;
 }
 .tqr{
+    width:10%;
     position: relative;
     left: 750px;
     font-size: 100px;
